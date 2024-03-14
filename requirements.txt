@@ -1,6 +1,6 @@
 jupyter
 pandas
-numpy
+numpy<1.25
 matplotlib
 scipy
 statannotations
