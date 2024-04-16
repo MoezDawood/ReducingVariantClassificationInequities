@@ -1,4 +1,4 @@
-# ReducingVariantClassificationInequities
+# Analysis Code for 'Defining and Reducing Variant Classification Disparities'
 
 
 1. First clone and download the github repository. Then download the input data
