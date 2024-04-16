@@ -5,7 +5,7 @@
 
     Go to https://drive.google.com/drive/folders/1sdp27bSK-N4LlDRI3Fmqu9N00xuIVxnx?usp=drive_link
 
-    In the google drive there will be two folders: requiredinputs and exampleoutput. Put all the files without changing their names from the requiredinputs folder into the inputs folder (from the cloned and downloaded github repo). The exampleoutput folder is for comparison. Total download size for all the files is about ~12.5 GB.
+    In the google drive there will be two folders: requiredinputs and exampleoutput. Put all the files without changing their names from the requiredinputs folder into the `inputs/` folder (from the cloned and downloaded github repo). The exampleoutput folder is for comparison. Total download size for all the files is about ~12.5 GB.
 
     
     
@@ -13,7 +13,7 @@
 2. Run notebook from top to bottom in order. If the entire github repository is downloaded and the contents are kept in the same order then you can click the 'Run all below' button.
 
 
-3. The version of Python 3.7.7 was used to run this notebook is:
+3. Python version 3.7.7 was used to run this notebook.
 
 
 4. The R version is R version 4.2.2 (2022-10-31). This is very pertinent for the rpy2 installation. If possible install rpy2 v3.5.7 and ggstatsplots v0.12.1
