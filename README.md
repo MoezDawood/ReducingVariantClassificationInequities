@@ -2,7 +2,7 @@
 
 ## Jupyter 
 
-a
+Before beginning, you will need Jupyter (https://jupyter.org/install) to view and interact with the Jupyter notebook.
 
 
 ## Notebook Instructions
