@@ -1,4 +1,5 @@
-# Analysis Code for 'Defining and Reducing Variant Classification Disparities'
+# Analysis Code for 'Using Multiplexed Functional Data to Reduce Variant Classification Inequities in Underrepresented Populations'
+'
 
 ## Jupyter 
 
