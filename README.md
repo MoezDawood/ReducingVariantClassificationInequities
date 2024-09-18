@@ -1,5 +1,9 @@
 # Analysis Code for 'Using Multiplexed Functional Data to Reduce Variant Classification Inequities in Underrepresented Populations'
 
+## Citation
+Preprint: Dawood, M., et al. "Defining and Reducing Variant Classification Disparities." medRxiv (2024): 2024-04.
+
+Code Repository: DOI: https://doi.org/10.1101/2024.04.11.24305690
 [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13777870)
 
 ## Jupyter 
@@ -36,7 +40,4 @@ Before beginning, you will need Jupyter (https://jupyter.org/install) to view an
 7. Per the policy of the All of Us program, the code, inputs, and outputs for the All of Us analyses are in a declared workspace in the All of Us workbench. The code in the All of Us workspace is the same as below with modifications made for the specific data requirements of the All of Us platform. After publication, the workspace will be gladly and immediately shared with approved users upon request.
 
 
-## Citation
-Dawood, M., et al. "Defining and Reducing Variant Classification Disparities." medRxiv (2024): 2024-04.
 
-DOI: https://doi.org/10.1101/2024.04.11.24305690
