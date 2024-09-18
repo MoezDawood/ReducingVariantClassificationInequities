@@ -1,5 +1,7 @@
 # Analysis Code for 'Using Multiplexed Functional Data to Reduce Variant Classification Inequities in Underrepresented Populations'
 
+[![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13777870)
+
 ## Jupyter 
 
 Before beginning, you will need Jupyter (https://jupyter.org/install) to view and interact with the Jupyter notebook.
