@@ -4,7 +4,7 @@
 Preprint: Dawood, M., et al. "Defining and Reducing Variant Classification Disparities." medRxiv (2024): 2024-04.
 DOI: https://doi.org/10.1101/2024.04.11.24305690
 
-Code Repository: [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13777870)
+Code Repository: [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13883266)
 
 ## Jupyter 
 
@@ -13,7 +13,7 @@ Before beginning, you will need Jupyter (https://jupyter.org/install) to view an
 
 ## Notebook Instructions
 
-1. First clone and download the github repository. Then download the input data from zenodo at [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13777870)
+1. First clone and download the github repository. Then download the input data from zenodo at [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13883266)
 
 
     In the Archive.zip (~2.2 GB) there will be two folders: requiredinputs and exampleoutput. Put all the files without changing their names from the requiredinputs folder into the `inputs/` folder (from the cloned and downloaded github repo). The exampleoutput folder is for comparison. After unzipping the total size for all the files is about ~12.5 GB.
