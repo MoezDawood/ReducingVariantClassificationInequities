@@ -13,11 +13,10 @@ Before beginning, you will need Jupyter (https://jupyter.org/install) to view an
 
 ## Notebook Instructions
 
-1. First clone and download the github repository. Then download the input data
+1. First clone and download the github repository. Then download the input data from zenodo at [![DOI](https://zenodo.org/badge/770433357.svg)](https://zenodo.org/doi/10.5281/zenodo.13777870)
 
-    Go to https://drive.google.com/drive/folders/1sdp27bSK-N4LlDRI3Fmqu9N00xuIVxnx?usp=drive_link
 
-    In the google drive there will be two folders: requiredinputs and exampleoutput. Put all the files without changing their names from the requiredinputs folder into the `inputs/` folder (from the cloned and downloaded github repo). The exampleoutput folder is for comparison. Total download size for all the files is about ~12.5 GB.
+    In the Archive.zip (~2.2 GB) there will be two folders: requiredinputs and exampleoutput. Put all the files without changing their names from the requiredinputs folder into the `inputs/` folder (from the cloned and downloaded github repo). The exampleoutput folder is for comparison. After unzipping the total size for all the files is about ~12.5 GB.
 
     
     
